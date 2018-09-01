@@ -25,3 +25,7 @@
     1). 查看分支: git branch
     2). 创建分支: git branch dev
     3). 切换分支: git checkout dev
+    4). 推送新分支到远程: git push origin dev
+    5). 拉取(检出)远程仓库的其它分支
+        git pull origin dev
+        git checkout -b dev origin/dev
