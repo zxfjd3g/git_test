@@ -16,3 +16,4 @@
         添加到索引区: git add *
         提交到版本区: git commit -m "xxxx"
         推送: git push origin master
+    5). 如果远程修改代码, 拉取到本地
