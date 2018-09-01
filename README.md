@@ -18,3 +18,10 @@
         推送: git push origin master
     5). 如果远程修改代码, 拉取到本地
         pull拉取: git pull origin master
+    6). 进公司的第一个事
+        克隆项目: git clone https://github.com/zxfjd3g/git_test
+        
+## 分支
+    1). 查看分支: git branch
+    2). 创建分支: git branch dev
+    3). 切换分支: git checkout dev
